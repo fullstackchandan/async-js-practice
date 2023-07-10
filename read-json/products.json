@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "abc",
+    "name": "cycle pure",
+    "price": "12",
+    "inventory": 5,
+    "productCode": "K23"
+  },
+
+  {
+    "id": 2,
+    "image": "ceat",
+    "name": "k c pal",
+    "price": "100",
+    "inventory": 50,
+    "productCode": "Kc03"
+  },
+
+  {
+    "id": 3,
+    "image": "france",
+    "name": "cycle decathalon",
+    "price": "124",
+    "inventory": 9,
+    "productCode": "jh03"
+  },
+
+  {
+    "id": 4,
+    "image": "dfgs",
+    "name": "ghee pure",
+    "price": "54",
+    "inventory": 15,
+    "productCode": "lh3"
+  }
+]
